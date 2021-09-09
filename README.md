@@ -1,1 +1,1 @@
-# Semaphores in C++ 
+# Semaphores in C
